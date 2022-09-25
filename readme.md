@@ -1,6 +1,6 @@
 # Password generator using JavaScript
 
-Application displays password with is required fields.
+Application displays password with its required fields.
 
 ## App Screenshot
 
